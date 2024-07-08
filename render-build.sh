@@ -1,7 +1,11 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -e
 
-# Update the package list and install SDL2 development libraries
-apt-get update && apt-get install -y libsdl2-dev
+# Ensure setup.sh is executable
+chmod +x setup.sh
+
+# Run setup.sh
+./setup.sh
 
 # Install Python dependencies
 pip install -r requirements.txt
