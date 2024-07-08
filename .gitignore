@@ -1,0 +1,4 @@
+render-build.sh
+setup.sh
+.venv
+__pycache__/
