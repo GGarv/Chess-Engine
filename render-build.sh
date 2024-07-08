@@ -1,11 +1,8 @@
 #!/usr/bin/env bash
 set -e
 
-# Ensure setup.sh is executable
-chmod +x setup.sh
+# Install a precompiled Pygame wheel
+pip install https://www.pygame.org/ftp/pygame-2.0.1-cp39-cp39-manylinux1_x86_64.whl
 
-# Run setup.sh
-./setup.sh
-
-# Install Python dependencies
+# Install other Python dependencies
 pip install -r requirements.txt
