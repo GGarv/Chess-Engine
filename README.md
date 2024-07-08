@@ -27,7 +27,7 @@ Chess has always been an important part of my life. I have played it extensively
 1. Clone this repository.
 2. Select whether you want to play versus computer, against another player locally, or watch the game of the engine playing against itself by setting the appropriate flags in lines 52 and 53 of `main.py`.
 3. Run `main.py`.
-4. Enjoy the game!
+4. Challenge the engine!
 
 ### Shortcuts
 - Press `z` to undo a move.
