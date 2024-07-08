@@ -1,6 +1,10 @@
 # Chess Engine by Garv
 Has achieved a max rating of 1800elo on chess.com
 
+![Chess Engine](https://github.com/GGarv/Chess-Engine/blob/main/start.png)
+![Chess Engine](https://github.com/GGarv/Chess-Engine/blob/main/middleGame.png)
+
+
 ## About
 Chess has always been an important part of my life. I have played it extensively and have always been a great fan of learning about chess strategies, openings, and theory. The idea of making a chess engine came to me when I went to the 56th Inter IIT to represent IIT Mandi in chess. There, the discussion about creating a chess engine sparked my interest. I delved deep into the subject, studying and researching various chess engines like Stockfish and AlphaZero, and found the website chessprogramming.org, which has significantly contributed to this project.
 
